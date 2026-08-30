@@ -3,8 +3,8 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
-- 🌱 I work as Data Scientist @ [Subbyx](https://www.subbyx.com/)
-- 👀 My main interests are **sustainability**, **food tech** and **travel**
+- 👩🏼‍💻 I work as Data Scientist @ [Subbyx](https://www.subbyx.com/)
+- 🌱 My main interests are **sustainability**, **food tech** and **travel**
 - 📊 I love turning messy data into something clear and actionable through dashboards, analysis, or automation
 
 ---
