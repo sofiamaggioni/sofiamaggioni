@@ -1,11 +1,9 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25">, I'm Sofia!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sofiamaggioni" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sofiamaggioni" height="30" width="30" />
-  </a>&nbsp;
+<a href="https://www.linkedin.com/in/sofia-maggioni-239464155/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sofiamaggioni" height="30" width="30" /></a>&nbsp;
+</a>
 </p>
-
 ---
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
